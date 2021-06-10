@@ -1,2 +1,2 @@
 # AriaNG
-Aria2 Pro Web UI
+Selfuse Aria2 Pro Web UI
